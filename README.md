@@ -5,6 +5,8 @@ Dockerでの開発環境が一般化してきているので、window10上でDoc
 
 ## やったこと
 - Dockerのインストール
+- apache + PHP 用のコンテナ作成
+- MYSQL 用のコンテナ作成
 - コマンド実行
     - docker --version
     - docker-compose --version
@@ -23,7 +25,8 @@ https://docs.docker.com/toolbox/toolbox_install_windows/
 Docker Toolbox on Windows
 （通常のDocker for Windowsはwindow10 Home非対応なので注意）
 
-
+## ゴール
+PHPからpdoを使ってMYSQL接続する
 
 
 
