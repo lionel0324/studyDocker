@@ -26,7 +26,4 @@ Docker Toolbox on Windows
 （通常のDocker for Windowsはwindow10 Home非対応なので注意）
 
 ## ゴール
-PHPからpdoを使ってMYSQL接続する
-
-
-
+PHPからpdoを使ってMYSQL接続するところまで
