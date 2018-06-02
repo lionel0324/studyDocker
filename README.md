@@ -22,6 +22,7 @@ Windows 10 Home
 
 ## インストール
 https://docs.docker.com/toolbox/toolbox_install_windows/
+
 Docker Toolbox on Windows
 （通常のDocker for Windowsはwindow10 Home非対応なので注意）
 
