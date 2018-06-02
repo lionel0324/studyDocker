@@ -1,4 +1,4 @@
-# DockerSandbox
+# studyDocker
 
 ## 目的
 Dockerでの開発環境が一般化してきているので、window10上でDockerを使ったLAMP環境を構築すること
