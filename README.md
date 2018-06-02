@@ -3,6 +3,9 @@
 ## 目的
 Dockerでの開発環境が一般化してきているので、window10上でDockerを使ったLAMP環境を構築すること
 
+## ゴール
+PHPからpdoを使ってMYSQL接続するところまで
+
 ## やったこと
 - Dockerのインストール
 - apache + PHP 用のコンテナ作成
@@ -27,5 +30,3 @@ Docker Toolbox on Windows
 
 （通常のDocker for Windowsはwindow10 Home非対応なので注意）
 
-## ゴール
-PHPからpdoを使ってMYSQL接続するところまで
